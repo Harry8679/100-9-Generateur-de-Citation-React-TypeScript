@@ -198,7 +198,7 @@ useEffect(() => {
         </div>
 
         {/* Next Project */}
-        <div className="mt-8 bg-gradient-to-r from-green-500 to-teal-500 rounded-xl shadow-lg p-6 text-white">
+        <div className="mt-8 bg-linear-to-r from-green-500 to-teal-500 rounded-xl shadow-lg p-6 text-white">
           <h3 className="text-xl font-bold mb-2">🚀 Prochaine étape</h3>
           <p className="mb-4">
             Projet 10 : Accordéon FAQ (Multiple states, composition)
