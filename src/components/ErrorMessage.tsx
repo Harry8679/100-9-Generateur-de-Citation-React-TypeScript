@@ -4,7 +4,7 @@ export const ErrorMessage = ({ message, onRetry }: ErrorMessageProps) => {
   return (
     <div className="bg-red-50 dark:bg-red-900/20 border-2 border-red-500 rounded-xl p-6">
       <div className="flex items-start gap-4">
-        <div className="flex-shrink-0">
+        <div className="shrink-0">
           <svg className="w-8 h-8 text-red-500" fill="currentColor" viewBox="0 0 20 20">
             <path
               fillRule="evenodd"
